@@ -1,9 +1,3 @@
-readme = """# CorpAct Processing & Reconciliation System
-
-**Portfolio Project — Treasury Operations | Securities Services**  
-**Target Role:** Deutsche Bank
-
----
 
 ## Project Overview
 
