@@ -7,8 +7,8 @@ It demonstrates end-to-end processing from event capture to settlement reconcili
 
 ## Key Features
 
-- Corporate Action event capture (Dividend & Stock Split) with full lifecycle d<img width="2384" height="1475" alt="ca_dashboard" src="https://github.com/user-attachments/assets/83aaea9e-1699-452b-aa34-03df961f936a" />
-ates
+- Corporate Action event capture (Dividend & Stock Split) with full lifecycle dates
+- <img width="2384" height="1475" alt="ca_dashboard" src="https://github.com/user-attachments/assets/83aaea9e-1699-452b-aa34-03df961f936a" />
 - Cash flow projection with holdings, FX conversion & withholding tax
 - Settlement reconciliation engine with exception/break detection
 - Event study analysis (price impact after corporate actions)
