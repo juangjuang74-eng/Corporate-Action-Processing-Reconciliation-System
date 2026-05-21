@@ -34,7 +34,7 @@ It demonstrates end-to-end processing from event capture to settlement reconcili
 
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r req.txt
 
 # Run the notebook
 jupyter notebook CorpAct_Deutsche_Bank_Portfolio.ipynb
